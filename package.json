@@ -1,0 +1,10 @@
+{
+  "name": "dr-shem-dental",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium, accessible website for Dr. Shem Dental in Kenya",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  }
+}
